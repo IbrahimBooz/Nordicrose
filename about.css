@@ -297,7 +297,7 @@
 .contents-card {
     width: 60%;
     display: grid;
-    grid-template-columns: repeat(3, 285px);
+    grid-template-columns: repeat(3, 1fr);
     margin: 20px auto;
     gap: 20px;
 }
