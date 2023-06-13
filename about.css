@@ -736,9 +736,7 @@ span {
     }
 
     .footer {
-        width: 80%;
-        margin: auto;
-
+        width: 100%;
     }
 
     .footer-line ul {
