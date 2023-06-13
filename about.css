@@ -325,10 +325,11 @@
     border: 1px solid black;
     box-shadow: 0 0 2px black;
     width: 40%;
-    margin: 0 auto 60px;
+    margin: 30px auto 60px;
     height: 290px;
     display: flex;
     flex-direction: column;
+
 }
 
 .content-h4 {
