@@ -1,7 +1,11 @@
 # Nordicrose
 
+# Site Tasarımı figmadan alınmıştır:
+
+https://www.figma.com/file/1DIVlpCdVxx8qslKYrRWBp/A-blog-template-(Community)?type=design&node-id=0-1&t=lGXHWP6B5qlyvAeU-0
+
 # Site Ziyareti için:
-nordicroseib.netlify.app
+https://nordicroseib.netlify.app/
 
 # Gif 
 
