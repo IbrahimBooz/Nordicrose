@@ -9,4 +9,5 @@ https://nordicroseib.netlify.app/
 
 # Gif 
 
-![nodricrose](https://github.com/IbrahimBooz/Nordicrose/assets/109763478/a913c215-861f-4816-beca-30504badfebb)
+
+![Nordicrose](https://github.com/IbrahimBooz/Nordicrose/assets/109763478/268ee667-da2d-43e3-b074-65865b317a67)
